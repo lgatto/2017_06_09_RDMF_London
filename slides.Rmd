@@ -17,13 +17,13 @@ https://lgatto.github.io           University of Cambridge
 lg390@cam.ac.uk                    @lgatt0
 ```
 
-Slides: http://bit.ly/20170609rdmf
-
+Slides: http://bit.ly/20170609rdmf  
+Source: https://github.com/lgatto/2017_06_09_RDMF_London
 
 ```
 ```
 
-![DOI](https://zenodo.org/badge/DOI/) (Last update `r date()`)
+Last update `r date()`
 
 
 ## About me 

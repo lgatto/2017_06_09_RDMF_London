@@ -8,5 +8,5 @@
 
 ## An early career researcher's view on modern and open scholarship ... and careers 
 
-View [slides](https://htmlpreview.github.io/?https://github.com/lgatto/2017_06_09_RDMF_London/blob/master/slides.html#)
+View slides: http://bit.ly/20170609rdmf
 
