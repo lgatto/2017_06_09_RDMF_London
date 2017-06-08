@@ -8,7 +8,8 @@
 
 ## An early career researcher's view on modern and open scholarship ... and careers 
 
-View slides: http://bit.ly/20170609rdmf
+* View slides: http://bit.ly/20170609rdmf
+* Citation: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.804394.svg)](https://doi.org/10.5281/zenodo.804394)
 
 ### Licence
 
