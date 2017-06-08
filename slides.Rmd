@@ -187,7 +187,7 @@ Static            Dynamic
 Meta-data         Documentation
 Large             Small
 QC                Testing
-DPM               SMP
+DMP               SMP
 DB/Repo           Version control
 
 ## References
