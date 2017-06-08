@@ -25,14 +25,33 @@ Source: https://github.com/lgatto/2017_06_09_RDMF_London
 
 Last update `r date()`
 
+## Licence
+
+These slides are available under a creative common
+[CC-BY license](http://creativecommons.org/licenses/by/4.0/). You are
+free to share (copy and redistribute the material in any medium or
+format) and adapt (remix, transform, and build upon the material) for
+any purpose, even commercially.
+
+<img src="cc1.jpg">
 
 ## About me 
+
+<!-- I consider myself a modern digital scholar, active and at ease with -->
+<!-- data and software, open and collaborative development and -->
+<!-- dissemination of my research. I might even dare to say that I am -->
+<!-- scientifically reasonable successful, with regular scientific -->
+<!-- publication and grant acceptance.  -->
 
 * Senior Research Associate 
 * Computational biology
 * Open Scientist, Data Champion
 * Software Sustainability Institute fellow
 * Software and Data Carpentry instructor
+* Active online: [twitter](https://twitter.com/lgatt0),
+  [open](https://github.com/lgatto)
+  [collaborative](https://lgatto.github.io/msnbase-contribs/)
+  development
 
 More details: https://lgatto.github.io/about/
 
@@ -41,57 +60,25 @@ More details: https://lgatto.github.io/about/
 
 > Research is the by product of researchers getting promoted. -- David Barron
 
+<!-- And that is a problem - how can *we*, early career researchers and -->
+<!-- modern digital and data-oriented actors, i.e. the future of research, -->
+<!-- drive change and innovation, in particular in the current climate of -->
+<!-- ultra-competitiveness and very limited career prospect? -->
+
 ### My talk
 
 - Focused on Early Career Researchers (ECRs)
+- Proponents of modern and digital scholarship, hungry for
+  transparency and openness
 - Incentivisation and career paths featuring the incorporation of good
   data/software management and open science/research practices.
 
-## The [Open Research Pilot Project](http://osc.cam.ac.uk/open-research/open-research-pilot-project)
+## Content: an opinionated view about
 
-With the [Office of Scholarly Communication](http://osc.cam.ac.uk/)
-(University of Cambridge) and the
-[Wellcome Trust](https://wellcome.ac.uk/what-we-do/our-work/open-research).
-
-- the support research groups need in order to make all aspects of
-  their research open,
-- why they want to do this,
-- how it benefits them,
-- how it improves the research process
-- what barriers there might be that prevent the sharing of their
-  research.
-
-## 
-
-In my opinion, barriers to Open Research are not technological, but
-**political** and **institutional**.
-
-> A critical point that is missing is the academic promotion of open
-> research and open researcher, as a way to promote a more rigorous
-> and sound research process and tackle the reproducibility
-> crisis. What should the incentives be? How to make sure that the
-> next generation of academics genuinely value openness and
-> transparency as a foundation of rigorous research? -- Laurent Gatto
-
-
-## Do we want more OS?  Who wants more OS?
-
-It is **not** an intricate inter-relation between **academics**,
-**publishers** and **funders**.
-
-- Traditional **publishers** are part of the problem, not the
-  solutions (see catastrophic JISC/Elseveir deal)
-- (Many of) the **senior academics** (i.e. those in a position of
-  power) have vested interests, are mis-informed on open science, and
-  have no incentive to change (see JCS in Cambridge)
-  
-## Do we want more OS?  Who wants more OS?
-  
-- **Institutions**: support your ERCs in their efforts to promote Open
-  Science - [DORA](http://www.ascb.org/dora/), pre-prints, OSC,
-  **listen to them**.  
-- Funders, do you want to support Open Science? **Do it!** Funders are
-  ideally positioned to drive change. But, in my opinion, too shy.
+- Modern, open, digital scholarship
+- The Open Research Pilot Project
+- Role of stakeholders in research
+- Data and software research outputs
 
 ## Modern, open, digital scholarship
 
@@ -109,23 +96,92 @@ It is **not** an intricate inter-relation between **academics**,
 
 But also 
 
-- inclusive
-- transparent
-- respectful of under represented minorities
+<!-- Not an old man's club -->
 
-## Carrer choices: open or not 
+- **Inclusive**
+- **Respectful**, for example of under represented minorities (see
+  [Open science and open science](https://lgatto.github.io/open-and-open/))
+- **Transparent**: research outputs, dissemination channels, and research
+  processes
 
-### Closed
-- scooping, perceived quality, risk averse, mis-understanding.
+## Open or not 
 
-### Open
-- demonstrate your strenghts, stand out, show that you can tackle
-  current challenges (big data, automation, reproducibility).
+- useful for others (researchers, public, ...) -- a *good* thing;
+  altruism
+- useful for me (open leads of reproducibility, trust, visibility) --
+  selfish
+- the future of research and scholarship
+- career decisions
 
-There is a gradient of openness, and everybody should contribute
-according to what they want, or what they can afford.
+## Career choices: open or not 
+
+- **Closed**: scooping, perceived quality, risk averse,
+  mis-understanding.
+- **Open**: demonstrate your strenghts, stand out, show that you can
+  tackle current challenges (big data, automation, reproducibility).
+
+There is a gradient if how much one wants (or can afford) to be an
+open scientist. Every contribution counts. See
+[Open science and open science](https://lgatto.github.io/open-and-open/).
+
+
+## The [Open Research Pilot Project](http://osc.cam.ac.uk/open-research/open-research-pilot-project)
+
+With the [Office of Scholarly Communication](http://osc.cam.ac.uk/)
+(University of Cambridge) and the
+[Wellcome Trust](https://wellcome.ac.uk/what-we-do/our-work/open-research).
+
+- the support research groups need in order to make all aspects of
+  their research open,
+- why they want to do this,
+- how it benefits them,
+- how it improves the research process,
+- what barriers there might be that prevent the sharing of their
+  research.
+
+## 
+
+In my opinion, barriers to Open Research are not technological, but
+rather at **political**, **institutional**, **community** level.
+
+> A critical point that is missing is the academic promotion of open
+> research and open researcher, as a way to promote a more rigorous
+> and sound research process and tackle the reproducibility
+> crisis. What should the incentives be? How to make sure that the
+> next generation of academics genuinely value openness and
+> transparency as a foundation of rigorous research? -- Laurent Gatto
+> ([link](https://lgatto.github.io/open-research-project/))
+
+
+## Do we want more OS?  Who wants more OS?
+
+An intricate inter-relation between **academics**, **publishers** and
+**funders** that drives (or does not) change?
+
+- Traditional **publishers** are part of the problem, not the
+  solutions (see catastrophic JISC/Elseveir deal).
+- (Many of) the **senior academics** (i.e. those in a position of
+  power) have vested interests, are mis-informed on open science, and
+  have no incentive to change (see JCS committee in Cambridge).
+  
+## Do we want more OS?  Who wants more OS?
+  
+- **Institutions**: please, do support your ERCs in their efforts to
+  promote Open Science, include them in decision making, **listen to
+  them** - [DORA](http://www.ascb.org/dora/), pre-prints, OSC.
+- **Funders**, do you want to support Open Science? **Do it!** Funders
+  are ideally positioned to drive change, support OS and ECR. But, in
+  my opinion, too shy.
+
 
 ## Data and software
+
+<!-- I see many commonalities between data and software. In my grant -->
+<!-- applications, as a computational scientist, I use the data management -->
+<!-- plan as a software management plan. For clarity, it might be useful to -->
+<!-- specify data and software management plan though, and provide -->
+<!-- guidelines to reviewers and applicants. Yet another apportunity to -->
+<!-- include ECRs and promote openness? -->
 
 Data              Software
 ---------------   ---------------
@@ -136,11 +192,6 @@ QC                Testing
 DPM               SMP
 DB/Repo           Version control
 
-
-<!-- It would be great if you could discuss the relationship between data -->
-<!-- and software in your work, and any common issues (or differences) -->
-<!-- between them. -->
-
 ## References
 
 - ERC at Cambridge:
@@ -148,12 +199,7 @@ DB/Repo           Version control
 - Corina Logan,
   *[We can shift academic culture through publishing choices](https://f1000research.com/articles/6-518/v1)*,
   F1000Research, 2017.
-- Laurent Gatto, *Open science and open science* blog post.
+- Blog posts about the OSC/WT
+  [Open Research Project](https://lgatto.github.io/tags/#open-research-project).
 
-## Licence
-
-These slides are available under a creative common
-[CC-BY license](http://creativecommons.org/licenses/by/4.0/). You are
-free to share (copy and redistribute the material in any medium or
-format) and adapt (remix, transform, and build upon the material) for
-any purpose, even commercially.
+**Thank you for your attention**
