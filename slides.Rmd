@@ -35,12 +35,12 @@ any purpose, even commercially.
 
 ## About me 
 
-<!-- I consider myself a modern digital scholar, active and at ease with -->
-<!-- data and software, open and collaborative development and -->
+<!-- I consider myself a modern digital scholar, active and competent with -->
+<!-- data and software, open and collaborative research and development, and -->
 <!-- dissemination of my research. I might even dare to say that I am -->
-<!-- scientifically reasonable successful, with regular scientific -->
-<!-- publication and grant acceptance in my research domain which is
-<!-- copmutational biology.  -->
+<!-- scientifically reasonably successful, with regular scientific -->
+<!-- publication and grant acceptance in my research domain which is -->
+<!-- computational biology. -->
 
 * Senior Research Associate
 * Computational biology
@@ -60,8 +60,8 @@ More details: https://lgatto.github.io/about/
 > Research is the by product of researchers getting promoted. -- David Barron
 
 <!-- And that is a problem - how can *we*, early career researchers and -->
-<!-- modern digital and data-oriented actors, i.e. the future of research, -->
-<!-- drive change and innovation, in particular in the current climate of -->
+<!-- modern, digital and data-oriented researchers drive change and -->
+<!-- innovation, in particular in the current climate of -->
 <!-- ultra-competitiveness and very limited career prospect? -->
 
 ### My talk
@@ -110,7 +110,8 @@ But also
 - useful for me (open leads to transparent and reproducible research,
   trust, visibility) -- selfish
 - open is the future of research and scholarship
-- career decisions
+
+Career decisions?
 
 ## Career choices: open or not?
 
@@ -131,7 +132,7 @@ With the [Office of Scholarly Communication](http://osc.cam.ac.uk/)
 (University of Cambridge) and the
 [Wellcome Trust](https://wellcome.ac.uk/what-we-do/our-work/open-research).
 
-- the support research groups need in order to make *all* aspects of
+- the support researchers' needs in order to make *all* aspects of
   their research open,
 - why researchers want to do this,
 - how it benefits them,
@@ -181,7 +182,6 @@ mangement practice. We need an **open science investigator
 award**. 
 
 But, in my opinion, too shy.
-
 
 ## Data and software
 
