@@ -101,7 +101,7 @@ But also
   minorities (see
   [Open science and open science](https://lgatto.github.io/open-and-open/))
 - **Transparent**: research outputs, dissemination channels, and research
-  processes
+  processes, decision making.
 
 ## Open or not?
 
