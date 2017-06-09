@@ -179,7 +179,7 @@ them** - **expect openness** in hiring and promotion:
 
 Funders are ideally positioned to drive change and to **support OS and
 ECR**, who are often the most skilled in OS and data/software
-mangement practice. We need an **open science investigator
+mangement practice. We need an **(open) science investigator
 award**. 
 
 But, in my opinion, too shy.
