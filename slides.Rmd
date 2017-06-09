@@ -97,8 +97,8 @@ But also
 
 <!-- Not an old man's club -->
 
-- **Inclusive**
-- **Respectful**, for example of under represented minorities (see
+- **Inclusive** and **respectful**, for example of under represented
+  minorities (see
   [Open science and open science](https://lgatto.github.io/open-and-open/))
 - **Transparent**: research outputs, dissemination channels, and research
   processes
