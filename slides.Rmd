@@ -39,9 +39,10 @@ any purpose, even commercially.
 <!-- data and software, open and collaborative development and -->
 <!-- dissemination of my research. I might even dare to say that I am -->
 <!-- scientifically reasonable successful, with regular scientific -->
-<!-- publication and grant acceptance.  -->
+<!-- publication and grant acceptance in my research domain which is
+<!-- copmutational biology.  -->
 
-* Senior Research Associate 
+* Senior Research Associate
 * Computational biology
 * Open Scientist, Data Champion
 * Software Sustainability Institute fellow
@@ -88,11 +89,11 @@ More details: https://lgatto.github.io/about/
   political entites, guided by phony metrics; let's not repeat the
   errors of the past!
 - Peer review: open, pre-publication (see [slides](https://rawgit.com/lgatto/2017-03-30-OSC-peerreview/master/slides.html#))
-- Open Eduction
+- Open Education
 
 ## Modern, open, digital scholarship
 
-But also 
+But also
 
 <!-- Not an old man's club -->
 
@@ -102,20 +103,20 @@ But also
 - **Transparent**: research outputs, dissemination channels, and research
   processes
 
-## Open or not 
+## Open or not?
 
 - useful for others (researchers, public, ...) -- a *good* thing;
   altruism
-- useful for me (open leads of reproducibility, trust, visibility) --
-  selfish
+- useful for me (open leads to transparent and reproducible research,
+  trust, visibility) -- selfish
 - open is the future of research and scholarship
 - career decisions
 
-## Career choices: open or not 
+## Career choices: open or not?
 
 - **Closed**: scooping, perceived quality, risk averse,
   mis-understanding.
-- **Open**: demonstrate your strenghts, stand out, show that you can
+- **Open**: demonstrate your confidence, stand out, show that you can
   tackle current challenges (big data, automation, reproducibility),
   documentation of research (DMP, for example).
 
@@ -130,15 +131,15 @@ With the [Office of Scholarly Communication](http://osc.cam.ac.uk/)
 (University of Cambridge) and the
 [Wellcome Trust](https://wellcome.ac.uk/what-we-do/our-work/open-research).
 
-- the support research groups need in order to make all aspects of
+- the support research groups need in order to make *all* aspects of
   their research open,
-- why they want to do this,
+- why researchers want to do this,
 - how it benefits them,
 - how it improves the research process,
 - what barriers there might be that prevent the sharing of their
   research.
 
-## 
+##
 
 In my opinion, barriers to Open Research are not technological, but
 rather at **political**, **institutional**, **community** level.
@@ -161,17 +162,25 @@ An intricate inter-relation between **academics**, **publishers** and
   solutions (see catastrophic JISC/Elseveir deal).
 - (Many of) the **senior academics** and **managers** (i.e. those in a
   position of power) have vested interests, are mis-informed on open
-  science, and have no incentive to change (see JCS committee in
-  Cambridge).
+  science, and have no incentive to change.
   
 ## Do we want more OS?  Who wants more OS?
   
-- **Institutions**: please, do support your ERCs in their efforts to
-  promote Open Science, include them in decision making, **listen to
-  them** - [DORA](http://www.ascb.org/dora/), pre-prints, OSC.
-- **Funders**, do you want to support Open Science? **Do it!** Funders
-  are ideally positioned to drive change, support OS and ECR. But, in
-  my opinion, too shy.
+**Institutions**: please, do support your ERCs in their efforts to
+promote Open Science, include them in decision making, **listen to
+them** - **expect openness**, [DORA](http://www.ascb.org/dora/),
+pre-prints, support/train staff (for example OSC in Cambridge).
+
+## Do we want more OS?  Who wants more OS?
+
+**Funders**, do you want to support Open Science? **Do it!** 
+
+Funders are ideally positioned to drive change and to **support OS and
+ECR**, who are often the most skilled in OS and data/software
+mangement practice. We need an **open science investigator
+award**. 
+
+But, in my opinion, too shy.
 
 
 ## Data and software
@@ -179,7 +188,7 @@ An intricate inter-relation between **academics**, **publishers** and
 <!-- I see many commonalities between data and software. In my grant -->
 <!-- applications, as a computational scientist, I use the data management -->
 <!-- plan as a software management plan. For clarity, it might be useful to -->
-<!-- specify data and software management plan though, and provide -->
+<!-- have dedicates data and software management plan though, and provide -->
 <!-- guidelines to reviewers and applicants. Yet another apportunity to -->
 <!-- include ECRs and promote openness? -->
 
@@ -190,7 +199,7 @@ Meta-data         Documentation
 Large             Small
 QC                Testing
 DMP               SMP
-DB/Repo           Version control
+DB, public repo   Version control in public repo
 
 ## References
 
