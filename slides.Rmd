@@ -167,7 +167,7 @@ An intricate inter-relation between **academics**, **publishers** and
   
 ## Do we want more OS?  Who wants more OS?
   
-**Institutions**: please, do support your ERCs in their efforts to
+**Institutions**: please, do support your ECRs in their efforts to
 promote Open Science, include them in decision making, **listen to
 them** - **expect openness**, [DORA](http://www.ascb.org/dora/),
 pre-prints, support/train staff (for example OSC in Cambridge).
