@@ -214,5 +214,13 @@ DB, public repo   Version control in public repo
   about the OSC/WT
   [Open Research Project](http://osc.cam.ac.uk/open-research/open-research-pilot-project).
 
+
+## Acknowledgements
+
+- [OpenConCam](http://openconcam.org/)
+- [Corina Logan](http://corinalogan.com/), [Stephen Eglen](https://sje30.github.io/), Yvonne Nobis
+- [Office of Scholarly Communication](Office of Scholarly Communication)
+
+
 **Thank you for your attention**
 
