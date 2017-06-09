@@ -108,7 +108,7 @@ But also
   altruism
 - useful for me (open leads of reproducibility, trust, visibility) --
   selfish
-- the future of research and scholarship
+- open is the future of research and scholarship
 - career decisions
 
 ## Career choices: open or not 
@@ -116,9 +116,10 @@ But also
 - **Closed**: scooping, perceived quality, risk averse,
   mis-understanding.
 - **Open**: demonstrate your strenghts, stand out, show that you can
-  tackle current challenges (big data, automation, reproducibility).
+  tackle current challenges (big data, automation, reproducibility),
+  documentation of research (DMP, for example).
 
-There is a gradient if how much one wants (or can afford) to be an
+There is a gradient in how much one wants (or can afford) to be an
 open scientist. Every contribution counts. See
 [Open science and open science](https://lgatto.github.io/open-and-open/).
 
@@ -158,9 +159,10 @@ An intricate inter-relation between **academics**, **publishers** and
 
 - Traditional **publishers** are part of the problem, not the
   solutions (see catastrophic JISC/Elseveir deal).
-- (Many of) the **senior academics** (i.e. those in a position of
-  power) have vested interests, are mis-informed on open science, and
-  have no incentive to change (see JCS committee in Cambridge).
+- (Many of) the **senior academics** and **managers** (i.e. those in a
+  position of power) have vested interests, are mis-informed on open
+  science, and have no incentive to change (see JCS committee in
+  Cambridge).
   
 ## Do we want more OS?  Who wants more OS?
   
@@ -192,7 +194,7 @@ DB/Repo           Version control
 
 ## References
 
-- ERC at Cambridge:
+- ECRs at Cambridge:
   [*Do you feel bullied into bad science?*](http://cambridge.eu.qualtrics.com/jfe/form/SV_6S9OXAydlFZz8cR)
 - Corina Logan,
   *[We can shift academic culture through publishing choices](https://f1000research.com/articles/6-518/v1)*,
