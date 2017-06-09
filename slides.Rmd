@@ -210,8 +210,9 @@ DB, public repo   Version control in public repo
   *[We can shift academic culture through publishing choices](https://f1000research.com/articles/6-518/v1)*,
   F1000Research, 2017 and associated
   [blog post](https://blog.f1000.com/2017/06/09/a-conversation-on-the-ethics-of-publishing).
-- Blog posts about the OSC/WT
-  [Open Research Project](https://lgatto.github.io/tags/#open-research-project).
+- [Blog posts](https://lgatto.github.io/tags/#open-research-project)
+  about the OSC/WT
+  [Open Research Project](http://osc.cam.ac.uk/open-research/open-research-pilot-project).
 
 **Thank you for your attention**
 
