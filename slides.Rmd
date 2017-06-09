@@ -150,7 +150,7 @@ rather at **political**, **institutional**, **community** level.
 > and sound research process and tackle the reproducibility
 > crisis. What should the incentives be? How to make sure that the
 > next generation of academics genuinely value openness and
-> transparency as a foundation of rigorous research? -- Laurent Gatto
+> transparency as a foundation of rigorous research?
 > ([link](https://lgatto.github.io/open-research-project/))
 
 
