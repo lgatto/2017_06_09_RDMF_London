@@ -207,7 +207,7 @@ DB, public repo   Version control in public repo
 - ECRs at Cambridge:
   [*Do you feel bullied into bad science?*](http://cambridge.eu.qualtrics.com/jfe/form/SV_6S9OXAydlFZz8cR)
 - Corina Logan,
-  *[We can shift academic culture through publishing choices](https://f1000research.com/articles/6-518/v1)*,
+  *[We can shift academic culture through publishing choices](https://f1000research.com/articles/6-518/v2)*,
   F1000Research, 2017 and associated
   [blog post](https://blog.f1000.com/2017/06/09/a-conversation-on-the-ethics-of-publishing).
 - [Blog posts](https://lgatto.github.io/tags/#open-research-project)
